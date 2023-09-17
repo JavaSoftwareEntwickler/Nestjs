@@ -54,7 +54,7 @@ $ npm run start:dev
 $ npm run start:prod
 
 # development GUI DB
-$ npm npx prisma studio
+$ npx prisma studio
 ```
 
 ## Test
