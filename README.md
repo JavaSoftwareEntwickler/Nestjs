@@ -32,6 +32,15 @@
 $ npm install
 ```
 
+## Script restart db e migration
+
+```bash
+# unit tests
+$ npm run-script db:dev:restart
+
+
+```
+
 ## Running the app
 
 ```bash
