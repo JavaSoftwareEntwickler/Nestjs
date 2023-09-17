@@ -35,7 +35,7 @@ $ npm install
 ## Script restart db e migration
 
 ```bash
-# unit tests
+# development
 $ npm run-script db:dev:restart
 
 
@@ -47,11 +47,14 @@ $ npm run-script db:dev:restart
 # development
 $ npm run start
 
-# watch mode
+# development watch mode
 $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# development GUI DB
+$ npm npx prisma studio
 ```
 
 ## Test
